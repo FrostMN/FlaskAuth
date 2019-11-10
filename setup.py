@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="example-pkg-frostmn", # Replace with your own username
+    name="FlaskAuth",
     version="0.0.1",
     author="Aaron Frost",
     author_email="author@example.com",
